@@ -32,9 +32,9 @@
 
 # 👨‍💻 About Me
 
-I'm a **Computer Science student** passionate about software development, Artificial Intelligence, Machine Learning, Data Structures & Algorithms, and building practical real-world applications.
+I'm a **ARTIFICIAL INTELLIGENCE AND DATA SCIENCE student** passionate about software development, Artificial Intelligence, Machine Learning, Data Structures & Algorithms, and building practical real-world applications.
 
-- 🤖 AI/ML Enthusiast
+- 🤖 AI/DS Enthusiast
 - 💻 Software Developer
 - 🐍 Python Developer
 - 🧩 DSA Problem Solver
