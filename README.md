@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-	<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=%F0%9F%92%BB+Software+Developer;%F0%9F%A4%96+AI%2FML+Enthusiast;%F0%9F%A7%A9+DSA+Problem+Solver;%F0%9F%90%8D+Python+Developer;%F0%9F%9A%80+Building+Real-World+Projects;%F0%9F%93%9A+Practising+LeetCode;%F0%9F%94%90+Exploring+Cybersecurity;%F0%9F%8C%B1+Always+Learning" alt="Animated developer descriptions" />
+	<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=%F0%9F%92%BB+Software+Developer;%F0%9F%A4%96+AI%2FDS+Enthusiast;%F0%9F%A7%A9+DSA+Problem+Solver;%F0%9F%90%8D+Python+Developer;%F0%9F%9A%80+Building+Real-World+Projects;%F0%9F%93%9A+Practising+LeetCode;%F0%9F%94%90+Exploring+Cybersecurity;%F0%9F%8C%B1+Always+Learning" alt="Animated developer descriptions" />
 </p>
 
 <p align="center">
