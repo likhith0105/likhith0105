@@ -1,7 +1,7 @@
 # LIKHITH HP
 
 <p align="center">
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=LIKHITH%20HP&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Developer%20%7C%20AI%2FML%20%7C%20DSA&descAlignY=55&descSize=18" alt="LIKHITH HP animated header" />
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=LIKHITH%20HP&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Developer%20%7C%20AI%2FDS%20%7C%20DSA&descAlignY=55&descSize=18" alt="LIKHITH HP animated header" />
 </p>
 
 <p align="center">
